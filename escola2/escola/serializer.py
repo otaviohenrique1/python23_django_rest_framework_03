@@ -42,7 +42,8 @@ class EstudanteSerializerV2(serializers.ModelSerializer):
 class CursoSerializer(serializers.ModelSerializer):
     class Meta:
         model = Curso
-        fields = "__all__ "
+        # fields = "__all__ "
+        fields = ["codigo", "descricao", "nivel"]
 
 
 class MatriculaSerializer(serializers.ModelSerializer):

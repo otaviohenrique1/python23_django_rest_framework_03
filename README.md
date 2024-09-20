@@ -33,6 +33,8 @@ Projeto do curso "Django REST Framework trabalhando com permissões, documentaç
 - pip install djangorestframework
 - pip install markdown
 - pip install django-filter
+- pip install drf-yasg
+- pip install --upgrade setuptools
 
 ## Exibir pacotes instalados
 
