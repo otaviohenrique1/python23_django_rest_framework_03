@@ -35,6 +35,7 @@ Projeto do curso "Django REST Framework trabalhando com permissões, documentaç
 - pip install django-filter
 - pip install drf-yasg
 - pip install --upgrade setuptools
+- pip install django-cors-headers
 
 ## Exibir pacotes instalados
 
